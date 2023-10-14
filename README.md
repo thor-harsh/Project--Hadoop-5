@@ -4,7 +4,7 @@
 
  **In this project we use Apache Spark and coded it using python to find the Top 10 Most Popular Lowest Rated Movie using DataFrame from u.data dataset**.<br></br>
 
- **Spoiler-Alert:**** **Here we we use Spark Session for DataFrame rather than Spark Context and Spark Conf.**
+ **Spoiler-Alert:**** **Here we we use Spark Session for DataFrame rather than Spark Context and Spark Conf.**<br></br>
  
   **This dataset contains 4 columns:** <br></br>
   **(UserId):** The user id of person who rated the movie<br></br>
